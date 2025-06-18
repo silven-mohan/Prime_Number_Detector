@@ -18,7 +18,8 @@ main()
 		{
 			if (n%i==0)
 			{	
-				count=count+1;
+				count=1;
+				break;
 			}
 		}
 		if (count==0)
