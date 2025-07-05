@@ -36,4 +36,12 @@ Enter any number: 1
 1 is neither a prime nor a composite number.
 ```
 
+---
+
+## 📃License
+
+  See included [LICENSE](./LICENSE) file for more details.
+
+---
+
 ## Author-Silven Mohan
