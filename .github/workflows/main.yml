@@ -16,7 +16,7 @@ permissions:
 
 jobs:
   build:
-    if: "!contains(github.event.head_commit_message. '[skip ci]')"
+    if: "!contains(github.event.head_commit_message, '[skip ci]')"
     runs-on: ubuntu-latest
 
     steps:
