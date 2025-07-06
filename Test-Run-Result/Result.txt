@@ -1,1 +1,9 @@
+Run Result:
 
+Enter any number:1 is neither a prime nor a composite number.
+
+
+Enter any number:2 is a prime number
+
+
+Enter any number:4 is not a prime number
