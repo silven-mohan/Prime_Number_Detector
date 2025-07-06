@@ -1,5 +1,8 @@
 # Prime_Number_Detector
 
+![CI](https://github.com/silven-mohan/Prime_Number_Detector/actions/workflows/.github/workflows/main.yml/badge.svg)
+
+-----
 
 This is a simple C program that checks whether a given number is a **prime number** or not. It accepts a number from the user and prints a clear message about its status.
 
