@@ -2,10 +2,10 @@
 
 #include<stdlib.h>
 
-main()
+int main()
 {
 	int n, i, count=0;
-	system("cls");
+	// system("cls");
 	printf("Enter any number:");
 	scanf("%d", &n);
 	if (n==1)
@@ -31,4 +31,6 @@ main()
 			printf("%d is not a prime number", n);
 		}
 	}
+
+	return 0;
 }
